@@ -85,7 +85,7 @@ button {
 	font-family:Arial;
 	font-size:14px;
 	font-weight:bold;
-	padding:12px 16px;
+	padding:6px 8px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2b665e;
 }
@@ -101,9 +101,10 @@ button:active {
 }
 
 .backgroundColor {
-    border: aquamarine solid;
+    border: #a06f5f solid;
     margin: auto;
-    background-color: cadetblue
+    background-color: cadetblue;
+    padding: 12px 16px;
 }
 
 .backgroundColor h1{
@@ -113,9 +114,10 @@ button:active {
 }
 
 .changeName {
-    border: aquamarine solid;
+    border: #a06f5f solid;
     margin: auto;
     background-color: cadetblue;
+    padding: 12px 16px;
 }
 
 .changeName h1 {
