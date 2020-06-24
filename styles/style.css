@@ -1,0 +1,99 @@
+.main {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+.container {
+    width: 600px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    border: black solid;
+    border-radius: 50px;
+    margin-top: 40px;
+}
+
+.hello {
+    background-color: tomato;
+    color: white;
+    margin: auto;
+    padding: 10px;
+    width: 100%;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 30px;
+    font-weight: bolder;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+.myName {
+    background-color: tomato;
+    color: white;
+    margin: auto;
+    padding: 10px;
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.name {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 200px;
+    font-family: cursive;
+}
+
+.bottom {
+    background-color: tomato;
+    margin: auto;
+    padding: 10px;
+    width: 100%;
+    height: 44px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.changing {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+button {
+    cursor: pointer;
+    
+}
+
+.backgroundColor {
+    border: aquamarine solid;
+    margin: auto;
+}
+
+.backgroundColor h1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.changeName {
+    border: aquamarine solid;
+    margin: auto;
+}
+
+.changeName h1 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
