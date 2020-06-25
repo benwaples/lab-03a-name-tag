@@ -104,6 +104,18 @@ button:active {
 	top:1px;
 }
 
+.pink {
+    color: pink;
+}
+
+.lightgreen {
+    color: lightgreen;
+}
+
+.lightblue {
+    color: lightblue;
+
+}
 .backgroundColor {
     border: #a06f5f solid;
     margin: auto;
