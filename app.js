@@ -9,6 +9,7 @@ const myName = document.querySelector('.myName')
 const bottom = document.querySelector('.bottom')
 const name = document.querySelector('.name')
 
+
 const submitName = document.querySelector('.submitName')
 
 // changing the color of the name tag background
